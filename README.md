@@ -4,7 +4,7 @@
 
 ## 📁 Clone the Repository
 ```bash
-git clone <repository_url>
+git clone gh repo clone ayush-k-thakur/appEQ-task
 cd <project_directory>
 ```
 
