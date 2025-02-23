@@ -50,7 +50,7 @@ cd <project_directory>
 
 ## 🌐 Access the Application
 - Backend runs on: `http://localhost:5000`
-- Frontend runs on: `http://localhost:3000`
+- Frontend runs on: `http://localhost:5173`
 
 ## 🛠️ Troubleshooting
 - ✅ Ensure MongoDB URI is correct and the network access in MongoDB Atlas allows connections.
