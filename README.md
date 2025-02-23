@@ -1,5 +1,3 @@
-# MERN Stack Project Setup
-
 ## Prerequisites
 - Node.js and npm installed
 - MongoDB Atlas account with a valid connection URI
@@ -63,35 +61,4 @@ The project should now be up and running with the backend on port 5000 and the f
 ---
 
 # 📄 README
-
-## 📌 Project Overview
-This MERN stack project is built with MongoDB, Express.js, React.js, and Node.js to provide a full-stack web application.
-
-## ⚙️ Getting Started
-Follow the steps in this README to set up both backend and frontend servers.
-
-## 🧾 Available Scripts
-### Backend
-- `npm install` → Install dependencies
-- `npm run start` → Start backend server on port 5000
-
-### Frontend
-- `npm install` → Install dependencies
-- `npm run dev` → Start frontend server on port 3000
-
-## 📊 Technologies Used
-- **MongoDB** → NoSQL Database
-- **Express.js** → Backend Framework
-- **React.js** → Frontend Library
-- **Node.js** → Backend Runtime
-
-## 🧑‍💻 Contributing
-1. Fork the repo
-2. Create your branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add YourFeature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
-## 🛡️ License
-This project is licensed under the MIT License.
 
