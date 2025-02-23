@@ -54,11 +54,4 @@ cd <project_directory>
 - ✅ Ensure MongoDB URI is correct and the network access in MongoDB Atlas allows connections.
 - ✅ Verify that both servers are running without errors.
 
----
-
-The project should now be up and running with the backend on port 5000 and the frontend on port 3000.
-
----
-
-# 📄 README
 
